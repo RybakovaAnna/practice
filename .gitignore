@@ -1,0 +1,14 @@
+/.idea
+.idea_copy/.gitignore
+.idea_copy/misc.xml
+.idea_copy/modules.xml
+.idea_copy/practice.iml
+.idea_copy/vcs.xml
+build/
+!/src/main/modules/module2/build/
+application-local.properties
+
+
+
+
+
